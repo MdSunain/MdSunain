@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Mohammed Sunain 👋</h1>
 <p align="center">
-  Software Engineer • Full Stack Developer • C++ & Backend Enthusiast
+  Software Engineer • Machine Learning • Python & Backend Enthusiast
 </p>
 
 ---
 
 ## 🌟 About Me
 I'm a final-year Computer Science student who enjoys building Systems.  
-I focus on **backend engineering**, **system design** and **full-stack development**.  
+I focus on **Machine Leanring engineering**, **system design** and **full-stack development**.  
 
 - 🔭 Currently building: **MiniCloud – a personal cloud storage system**  
 - 🔥 Passionate about: backend architecture, cloud deployment, clean APIs, Docker, databases  
