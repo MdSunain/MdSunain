@@ -7,12 +7,12 @@
 
 ## 🌟 About Me
 I'm a final-year Computer Science student who enjoys building Systems.  
-I focus on **Machine Leanring engineering**, **system design** and **full-stack development**.  
+I focus on **Machine Learning engineering**, **system design** and **full-stack development**.  
 
-- 🔭 Currently building: **MiniCloud – a personal cloud storage system**  
-- 🔥 Passionate about: backend architecture, cloud deployment, clean APIs, Docker, databases  
-- 📚 Improving: DSA in C++, scalable backend systems  
-- 💼 Looking for: Software Engineer / Backend Developer / Full-Stack Fresher roles  
+- 🔭 Currently working on : **Finding the Novel Method for Vehicle Detection in Smart Cities using Federated Learning**  
+- 🔥 Passionate about: Artificial Intelligence, backend architecture, cloud deployment, clean APIs, databases  
+- 📚 Improving: Machine learning in Python, DSA in C++, scalable backend systems  
+- 💼 Looking for: AI Engineer / ML Engineer / Software Engineer roles  
 
 ___
 ## 🛠 Tools & Tech
@@ -21,6 +21,7 @@ ___
 
 **Backend & Full Stack** - Node.js, Express.js, REST API, MongoDB
 
+**Backend & Full Stack** - Numpy, Pandas, Matplotlib, Pytorch, CNN, YOLO, Federated Learning
 ---
 
 ## 📫 Connect With Me
@@ -33,7 +34,7 @@ ___
 
 ---
 
-### ⭐ If you find my projects helpful, consider giving them a star!
+### ⭐ If you find my projects Interesting, consider giving them a star!
 
 <!--
 **MdSunain/MdSunain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
